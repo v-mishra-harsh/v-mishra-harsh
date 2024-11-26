@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Harsh
-- 👀 I’m interested in Technical Project Management
+- 👀 I’m interested in Technical Project Management (TPM)
 - 🌱 I’m currently working on Python, Java, Node.JS, React.JS & AI-ML projects
 - ⚡ Currently working personally on building a SaaS product to be made public later <br>
 # Thank you for viewing my profile and stopping by :) 
